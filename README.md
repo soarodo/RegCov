@@ -4,7 +4,7 @@ This is an code implementation of the paper **Fast Normalization for Bilinear Po
 ## Usage
 
 ### Download
-Please donwnload the checkpoint(link) at the first stage and put it in the ~/
+Please donwnload the [checkpoint](https://drive.google.com/file/d/1CBeV-HwiT9IOtWmp_kp6xqsVjtsKKri2/view?usp=sharing) at the first stage and put it in the ~/
 
 ### Data preparation
 Download and extract ImageNet train and val images from http://image-net.org/. The directory structure is the standard layout for the torchvision datasets.ImageFolder, and the training and validation data is expected to be in the train/ folder and val/ folder respectively:
