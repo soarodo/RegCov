@@ -26,3 +26,6 @@ Download and extract ImageNet train and val images from http://image-net.org/. T
 ### Evaluation
 To evaluate the Dropcov method, run **train.sh**
 
+### Acknowledgement
+Our code are built following [DropCov](https://github.com/mingzeG/DropCov), thanks for their excellent work.
+
